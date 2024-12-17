@@ -7,7 +7,7 @@ setup(
     install_requires=[],  # Dependências, se houver
     author="João Marcos Simon Paulini",
     license="MIT",
-    documentation_basicsoperations="https://documentation-basics-operations-jm.vercel.app",
+    documentation="https://documentation-basics-operations-jm.vercel.app",
     author_email="joaomarcospaulini@gmail.com",
     description="Uma biblioteca para cálculos básicos",
     url="https://github.com/JoaoMarcos91/basicsoperations.git",  # Opcional
